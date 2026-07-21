@@ -4,7 +4,7 @@ SmartBus AI is a modern web application designed to improve the public transport
 
 ## 🌐 Live Demo
 
-🔗 **Website:** https://smart-bus-map--g22310608.replit.app/dashboard
+🔗 **Website:** [https://smart-bus-map--g22310608.replit.app/dashboard](https://smart-bus-map--g22310608.replit.app/)
 
 ---
 
